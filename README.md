@@ -26,6 +26,9 @@ Install the required packages using pip:
 
 - pip install -r requirements.txt
 
+### Set Permissions
+chmod +x main.py
+
 
 ### Usage
 You can run the tool using the following command:
