@@ -13,7 +13,7 @@ Example : python3 main.py example.com/search?q=FUZZ
 
 ### Automate
 sed 's/=\([^&]*\)/=FUZZ/' urls.txt > updated_urls.txt
-- it will automatically add Fuzz word in the parameter, if you long list of url's then use this command
+- it will automatically add Fuzz word in the parameter, if you have long list of url's then use this command
 
 ## Clone the Repository
 
