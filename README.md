@@ -24,7 +24,7 @@ sed 's/=\([^&]*\)/=FUZZ/' urls.txt > updated_urls.txt
 ### Install Dependencies
 Install the required packages using pip:
 
-- pip install -r requirements.txt
+- pip3 install -r requirements.txt
 
 ### Set Permissions
 chmod +x main.py
